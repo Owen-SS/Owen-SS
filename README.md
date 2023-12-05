@@ -8,7 +8,7 @@ I am a student studying BSc (Hons) Software Engineering at Bournemouth Universit
 
 I am really passionate about software solutions that contribute to sustainability, whether it's through utilizing IoT technology or creating websites that raise awareness for important causes.
 
-* 🌍  I'm based in Dorset
+* 🌍  I'm based in England
 * 🧠  I'm learning VueJs, C#
 * 🤝  I'm open to collaborating on any projects, always interested in unique projects and understanding different code bases!
 * ⚡  I have a very keen interest in AI and aim to implement machine learning in some future website projects potentially using TensorFlow 😯
