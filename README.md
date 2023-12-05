@@ -53,6 +53,7 @@ I am really passionate about software solutions that contribute to sustainabilit
 <a href="http://www.github.com/Owen-SS">
   <img src="https://github-readme-stats.vercel.app/api?username=Owen-SS&show_icons=true&hide=issues,&count_private=true&title_color=ffffff&text_color=0891b2&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="Owen-SS's GitHub stats" />
 </a>
+
 <a href="http://www.github.com/Owen-SS">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Owen-SS&stroke=0891b2&background=181824&ring=ffffff&fire=ffffff&currStreakNum=0891b2&currStreakLabel=ffffff&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" />
 </a>
