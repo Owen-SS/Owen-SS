@@ -1,7 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Owen Staddon ==================================================================================================================================== 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Owen Staddon 
 Full-Stack Software Developer
------------------------------  
-I am a student studying BSc (Hons) Software Engineering at Bournemouth University. I am currently on my placement year working for a local web development agency as a Full-Stack Software Developer. I am currently learning how to build and maintain complex websites using tools such as .Net, VueJs, Sass, Azure and much more. I am really passionate about software solutions that contribute to sustainability, whether it's through utilising IoT technology or creating websites that raise awareness for important causes.  * 🌍  I'm based in Dorset * 🧠  I'm learning VueJs, C# 🚀 * 🤝  I'm open to collaborating on any projects, always interested by unique projects and understanding different code bases! * ⚡  I have a very keen interest in AI and aim to implement machine learning in some future website projects potentially using tensorflow 😯
+
+I am a student studying BSc (Hons) Software Engineering at Bournemouth University. I am currently on my placement year working for a local web development agency as a Full-Stack Software Developer. I am currently learning how to build and maintain complex websites using tools such as .Net, VueJs, Sass, Azure and much more.
+
+I am really passionate about software solutions that contribute to sustainability, whether it's through utilising IoT technology or creating websites that raise awareness for important causes.
+
+* 🌍  I'm based in Dorset
+* * 🧠  I'm learning VueJs, C# 🚀
+* * 🤝  I'm open to collaborating on any projects, always interested by unique projects and understanding different code bases!
+* * ⚡  I have a very keen interest in AI and aim to implement machine learning in some future website projects potentially using tensorflow 😯
 
 <a href="https://www.github.com/Owen-SS" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Owen-SS?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
 ### Skills  
