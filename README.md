@@ -56,6 +56,3 @@ I am really passionate about software solutions that contribute to sustainabilit
 <a href="http://www.github.com/Owen-SS">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Owen-SS&stroke=0891b2&background=181824&ring=ffffff&fire=ffffff&currStreakNum=0891b2&currStreakLabel=ffffff&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" />
 </a>
-<a href="http://www.github.com/Owen-SS">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Owen-SS&bg_color=181824&color=0891b2&line=0891b2&point=0891b2&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
