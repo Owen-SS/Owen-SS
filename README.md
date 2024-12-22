@@ -4,7 +4,7 @@
 
 ### Full-Stack Software Developer
 
-I am a student studying BSc (Hons) Software Engineering at Bournemouth University. I am currently on my placement year working for a local web development agency as a Full-Stack Software Developer. I am currently learning how to build and maintain complex websites using tools such as .Net, VueJs, Sass, Azure, and much more. 
+I am a final-year BSc (Hons) Software Engineering student at Bournemouth University, currently working part-time as a Full-Stack Software Developer at a web development agency. My role involves building and maintaining complex websites using modern technologies such as .NET, Vue.js, Sass, Azure, and more. 
 
 I am really passionate about software solutions that contribute to sustainability, whether it's through utilizing IoT technology or creating websites that raise awareness for important causes.
 
